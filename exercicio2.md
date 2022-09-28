@@ -5,4 +5,9 @@ Depois disso, escreva **No DevTools** o código necessário para que seja possí
 Cole o comando aqui:
 ```jsx
     cole o código JS nesta área.
+    const novaFruta = document.getElementById("manga")
+    function novoTexto(){
+    console.log(novaFruta.value)
+}
+
 ```
